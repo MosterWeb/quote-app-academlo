@@ -19,7 +19,7 @@ El archivo components-css/CardQuotes.ccs contiene dicha clase.
 
 ##Instalar Quote-App
 ```bash
-git clone https://...
+https://github.com/MosterWeb/quote-app-academlo.git
 cs citas-app
 npm install
 npm start
